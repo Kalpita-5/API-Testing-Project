@@ -1,7 +1,7 @@
 # API-Testing-Project
 Restful booker API
 Restful Booker Testcase (excel) + Postman Testcases
-Link to Download Files - https://sdet.live/project1
+Restful Booker Test Plan
 
 Postman Testcases(in JS)
 
